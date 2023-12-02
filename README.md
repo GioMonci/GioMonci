@@ -15,7 +15,7 @@ Skills: C++ / Python / JavaScript
 - ⚡ Fun fact: Pirate Legend on Sea of Thieves 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GioMonci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/EggyMosquito)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.youtube.com/watch?v=1-kKTOr5mcU)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GioMonci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@EggyMosquito)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.youtube.com/watch?v=1-kKTOr5mcU)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GioMonci)](https://github.com/ryo-ma/github-profile-trophy)
 
