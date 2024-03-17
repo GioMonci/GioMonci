@@ -1,6 +1,6 @@
-### Hi there 👋, my name is G
+### Hi there 👋, my name is Gio
 
 A passionate Software Engineering Student
 
-Skills: C++ / Python / JavaScript
+Skills: C++ / Python / Java / Javascript
 
