@@ -1,14 +1,14 @@
 # Hi there 👋, my name is Gio
 
-👩🏻‍💻 A passionate Software Engineering Student @ FGCU
-💭 Currently learning malware development 
-🤝 Add me to work on a project together
+###👩🏻‍💻 A passionate Software Engineering Student @ FGCU
+###💭 Currently learning malware development 
+###🤝 Add me to work on a project together
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
