@@ -1,5 +1,5 @@
 
-<p align="center"><img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/200.webp?cid=790b7611y05zp61nfzruba7uyy5a89089oiiinbms43t0ebj&ep=v1_gifs_search&rid=200.webp&ct=g)" width="100"/></p>
+<p align="center"><img src="[https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/200.webp?cid=790b7611y05zp61nfzruba7uyy5a89089oiiinbms43t0ebj&ep=v1_gifs_search&rid=200.webp&ct=g ]" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
