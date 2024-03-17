@@ -19,7 +19,7 @@ I am a Software Engieering Student <img src="https://media.giphy.com/media/WUlpl
 - 🔭 I’m currently developing my personal website.
 - 🌱 Exploring Machine Learning.
 - ⚡ In my free time I like to play games.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-moncibaez-192a16227/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-GioMonci-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-moncibaez-192a16227/)
 
 ---
 
