@@ -1,8 +1,8 @@
 # Hi there 👋, my name is Gio
 
-###👩🏻‍💻 A passionate Software Engineering Student @ FGCU
-###💭 Currently learning malware development 
-###🤝 Add me to work on a project together
+👩🏻‍💻 A passionate Software Engineering Student @ FGCU <br>
+💭 Currently learning malware development <br>
+🤝 Add me to work on a project together <br>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
