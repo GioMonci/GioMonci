@@ -14,7 +14,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Software Engieering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Florida.
+I am a Software Engieering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from Florida.
 
 - 🔭 I’m currently developing my personal website.
 - 🌱 Exploring Machine Learning.
