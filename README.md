@@ -14,6 +14,6 @@
   - Php: Apache
   - Relational databases: sqlite, MySql, Postgres
   - Non-relational databases: MongoDB
-  - Java: Selenium, AWT Robot, Maven, Junit, 
+  - Java: Selenium, AWT Robot, Maven, Junit, Jcommander, TestNG
   - Python: Tkinter
 ---
