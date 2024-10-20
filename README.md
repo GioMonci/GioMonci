@@ -3,9 +3,8 @@
 ### About Me :
 
 - SWE Student
-- Developing SFML desktop application in C++.
-- Exploring machine learning and web development.
-- Plat 1 tank on Overwatch.
+- Developing data visualizer desktop application.
+- Exploring ESP32, Tensor Flow, LoRa.
 ---
 
 ### Languages and Tools :
