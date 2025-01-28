@@ -8,9 +8,9 @@
 ---
 
 ### Languages and Tools :
-  - C/C++: Win32, Windows API, SFML
-  - Assembly: AVR
-  - Embedded Sys / Microcontrollers: Ardunio Uno, ESP32, Feather GPS, ISM330DHCX, IS3MDL
+  - C/C++: Windows API, SFML
+  - Assembly: AVR w/ Ardunio Uno
+  - Embedded Systems: ESP32, Feather GPS, ISM330DHCX+IS3MDL FeatherWing 9-DoF IMU, loRaWAN
   - HTML/CSS/JavaScript: React, Next js
   - Php: Apache
   - Relational databases: sqlite, MySql, Postgres
