@@ -1,7 +1,7 @@
   <h1 align="center">Hey there, i'm Gio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 # 💫 About Me:
-🏫 Software Engineering Student @ FGCU<br> 🔭 I’m currently working on developing an open-source framework for low-cost remote sensing systems<br>👯 I’m looking to collaborate on any IOT projects<br>🌱 I’m currently exploring Embedded Systems
+🏫 Software Engineering Student @ FGCU<br> 🔭 I’m currently working on building a drone<br>👯 I’m looking to collaborate on any IOT projects<br>🌱 I’m currently exploring Embedded Systems
 
 
 # 💻 Tech Stack:
