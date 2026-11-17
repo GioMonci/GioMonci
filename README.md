@@ -11,10 +11,10 @@
 ### ⚡ Embedded toolkit
 
 - **Languages:** ASM · C · C++
-- **Communication:** UART · SPI · I²C · RS-232 · RS-485 · Modbus · CAN
-- **Peripherals:** GPIO · ADC · DAC · PWM · Timers · Interrupts · DMA
+- **Communication Protocols:** UART · SPI · I²C · RS-232 · RS-485 · Modbus · CAN · LoRaWAN
+- **Peripheral Drivers:** GPIO · ADC · DAC · PWM · Timers · Interrupts · DMA
 - **Firmware:** Device drivers · Register-level programming · State machines · ThreadX
-- **Sensors:** WNK125P Pressure Sensor · NTC temperature sensor · LoRaWAN · ISM330DHCX Accelormeter · SPI Flash · LSD · Switches
+- **Devices:** WNK125P & WNK80MA Pressure Sensor · NTC temperature sensor · ISM330DHCX Accelormeter & Gyroscope · SPI Flash · LSD · Switches
 - **Debugging:** JTAG / SWD · Serial debugging · Oscilloscopes · Logic analyzers
 - **Hardware:** Datasheets · Schematics
 
@@ -27,11 +27,11 @@ AVR · ESP32 · STM32 · PIC32
 **Tools I use**
 
 - IAR Embedded Workbench
-- MPLAB
+- MPLAB IDE & IPE
 - Arduino IDE
 - STM32CubeIDE
 - STM32CubeProgrammer
-
+- Platform IO
 ---
 
 <div align="center">
